@@ -1,0 +1,17 @@
+{
+  "title": "Last Order: Hitori Bocchi no Hyakunen Sensou",
+  "description": "A post-apocalyptic world. Following her last order, the mechanical soldier Ria has been fighting an endless war for over a hundred years. With the people she was meant to protect gone, and her comrades-in-arms lost, Ria spends her days fighting alone. Then, a human appears before her once more..!?",
+  "artist": "Matsuba Satoru",
+  "author": "Hamamatsu Kasuga",
+  "cover": "https://i.imgur.com/6s75a82.png",
+  "chapters": {
+    "1": {
+      "title": "Something to Protect",
+      "volume": "1",
+      "groups": {
+        "Taco Hut": "/proxy/api/imgur/chapter/SUXYjV5/"
+      },
+      "last_updated": "1611946800"
+    }
+  }
+}
