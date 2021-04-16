@@ -20,6 +20,14 @@
         "Taco Hut": "/proxy/api/imgur/chapter/XsKVVcW/"
       },
       "last_updated": "1613761200"
+    },
+      "3": {
+      "title": "An Evil From Bygone Days",
+      "volume": "1",
+      "groups": {
+        "Taco Hut": "/proxy/api/imgur/chapter/ca6dho1/"
+      },
+      "last_updated": "1618603200"
     }
   }
 }
