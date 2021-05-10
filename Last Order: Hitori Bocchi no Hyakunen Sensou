@@ -28,6 +28,14 @@
         "Taco Hut": "/proxy/api/imgur/chapter/ca6dho1/"
       },
       "last_updated": "1618603200"
+    },
+       "4": {
+      "title": "Red-Eyed Killer Doll",
+      "volume": "1",
+      "groups": {
+        "Taco Hut": "/proxy/api/imgur/chapter/r7ahPRX/"
+      },
+      "last_updated": "1620676500"
     }
   }
 }
