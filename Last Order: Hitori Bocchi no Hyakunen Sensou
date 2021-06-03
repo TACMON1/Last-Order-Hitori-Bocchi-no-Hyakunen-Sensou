@@ -36,6 +36,14 @@
         "Taco Hut": "/proxy/api/imgur/chapter/r7ahPRX/"
       },
       "last_updated": "1620676500"
+    },
+       "5": {
+      "title": "Just Like Mom",
+      "volume": "1",
+      "groups": {
+        "Taco Hut": "/proxy/api/imgur/chapter/EtEpTxK/"
+      },
+      "last_updated": "1622683200"
     }
   }
 }
