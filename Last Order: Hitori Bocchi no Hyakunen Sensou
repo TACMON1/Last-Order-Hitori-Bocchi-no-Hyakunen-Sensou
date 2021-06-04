@@ -44,6 +44,14 @@
         "Taco Hut": "/proxy/api/imgur/chapter/EtEpTxK/"
       },
       "last_updated": "1622683200"
+    },
+       "5.5": {
+      "title": "Volume 1 Omake",
+      "volume": "1",
+      "groups": {
+        "Taco Hut": "/proxy/api/imgur/chapter/hC2f8rY/"
+      },
+      "last_updated": "1622847720"
     }
   }
 }
