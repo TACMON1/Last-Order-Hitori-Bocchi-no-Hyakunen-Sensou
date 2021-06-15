@@ -3,7 +3,7 @@
   "description": "A post-apocalyptic world. Following her last order, the mechanical soldier Ria has been fighting an endless war for over a hundred years. With the people she was meant to protect gone, and her comrades-in-arms lost, Ria spends her days fighting alone. Then, a human appears before her once more..!?",
   "artist": "Matsuba Satoru",
   "author": "Hamamatsu Kasuga",
-  "cover": "https://i.imgur.com/6s75a82.png",
+  "cover": "https://i.imgur.com/iyAn44h.png",
   "chapters": {
     "1": {
       "title": "Something to Protect",
@@ -52,6 +52,14 @@
         "Taco Hut": "/proxy/api/imgur/chapter/hC2f8rY/"
       },
       "last_updated": "1622847720"
+    },
+       "6": {
+      "title": "For a Time, I...",
+      "volume": "2",
+      "groups": {
+        "Taco Hut": "/proxy/api/imgur/chapter/ZiuPzMI/"
+      },
+      "last_updated": "1623780900"
     }
   }
 }
